@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: "iryek";
+    src: url("../fonts/YekanBakh.ttf") format("ttf");
+    src: url("../fonts/YekanBakh.woff") format("woff");
+    src: url("../fonts/YekanBakh.woff2") format("woff2");
+  }
+  body{
+  font-family: "iryek";
+  }
+

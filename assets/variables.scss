@@ -1,0 +1,9 @@
+$material-dark: ( background: #171C28, cards: #292E3A);
+$material-light: ( cards: #ffff);
+// $body-font-family:'iryek';
+$shadow-key-umbra-opacity: rgba(rgb(0, 0, 0), 0.2);
+$shadow-key-penumbra-opacity: rgba(rgb(0, 0, 0), 0.14);
+$shadow-key-ambient-opacity: rgba(rgb(0, 0, 0), 0.12);
+$border-radius-root:10px;
+$timeline-dot-small-size:10px;
+@import '~vuetify/src/styles/styles.sass';
