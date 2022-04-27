@@ -8,4 +8,15 @@
   body{
   font-family: "iryek";
   }
+  .spark--left{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    right: 5%;
+    top: 5%;
+    background: #27E2FF;
+    opacity: 0.5;
+    filter: blur(100px);
+    border-radius: 50%;
+  }
 

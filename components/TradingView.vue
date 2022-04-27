@@ -4,7 +4,7 @@
       theme: 'dark',
       locale: 'fa_IR',
         width: '100%',
-  height: '500px',
+  height: '98%',
     }" />
 </template>
 <script>

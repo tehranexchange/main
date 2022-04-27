@@ -25,4 +25,7 @@ export default {
   font-family:  "iryek" !important;
   font-weight: 200 !important;
 }
+.slider_col{
+  width: 1px !important;
+}
 </style>
